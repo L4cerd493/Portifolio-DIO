@@ -1,0 +1,42 @@
+{
+  "name": "Rafael Batista de Lacerda",
+  "photo": "",
+  "job": "Analista Desenvolvedor",
+  "location": "Campo Grande - MS",
+  "phone": "(67) 98413-3337",
+  "email": "rafaellacerda60@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Diciplina",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (basico)",
+    "Espanhol (basico)",
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/L4cerd493/Pokedex-API.git",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Analista Desenvolvedor / IGTN",
+      "period": "2024 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+    }
+  ]
+}
